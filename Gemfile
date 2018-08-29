@@ -14,6 +14,8 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'bcrypt'
 
+gem 'haml-rails'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
